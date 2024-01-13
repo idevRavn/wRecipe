@@ -1,8 +1,22 @@
 * {
+  background-color: #9BDEAC;
   text-align: center;
 }
 
 h1 {
-  font-family: fantasy;
+  font-family:Arial, Helvetica, sans-serif;
   text-align: center;
+  color: #193b27;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+a{
+  color: rgb(39, 77, 25);
 }
